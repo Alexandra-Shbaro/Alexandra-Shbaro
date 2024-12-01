@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexandra Shbaro</h1>
 <h3 align="center">Hi there! 🚀 Welcome to my little corner of the coding universe. I'm Alexandra, a passionate developer who is always looking to turn ideas into digital magic. 🌌</h3>
-<img align="center" alt="Coding" width="400" style="margin:auto;" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/b8245420aaaad501f66af5ac0ea7df2d.gif">
+<div style="display: flex; justify-content: center; align-items: center; width:100% !important;">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/b8245420aaaad501f66af5ac0ea7df2d.gif">
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandra-shbaro" alt="alexandra-shbaro" /></a> </p>
 
