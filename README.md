@@ -5,11 +5,13 @@
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/b8245420aaaad501f66af5ac0ea7df2d.gif">
 </p>
 
+<!--
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=alexandra-shbaro" alt="alexandra-shbaro" />
   </a> 
 </p>
+-->
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js, and Laravel PHP Framework**
 - 💬 Ask me about **my secret obsession with clean CSS (don’t mess with my margins). 🎨**
